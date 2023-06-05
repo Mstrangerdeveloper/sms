@@ -1,0 +1,9 @@
+.react-datepicker__calendar-icon {
+    width: 2em !important;
+    height: 2rem !important;
+}
+.react-datepicker__input-container input {
+    border-radius: 0.5em;
+    width: 100px;
+    
+}
